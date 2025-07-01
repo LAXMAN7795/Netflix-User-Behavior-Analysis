@@ -43,7 +43,7 @@ This project explores and analyzes Netflix user behavior to uncover **content pr
 ## 📊 Visualizations Included
 
 ### 🔹 Top Watched Genres
-![Top Genres](outputs/top_genres.png)
+![Top Genres](https://github.com/LAXMAN7795/Netflix-User-Behavior-Analysis/blob/6279baaa14f62d2e7e14df7eae68bf76b29bbab9/output/top_genres.png)
 
 > Documentaries, Dramas, and Comedies emerge as the most-watched genres.
 
