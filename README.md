@@ -60,7 +60,7 @@ This project explores and analyzes Netflix user behavior to uncover **content pr
 ---
 
 ### 🔹 Average Rating by Genre
-![Engagement by Plan](outputs/subscription_engagement.png)
+![Engagement by Plan](https://github.com/LAXMAN7795/Netflix-User-Behavior-Analysis/blob/75f65023b1256800a2fefdcca08f917ac27ab0c8/output/ratings_vs_genres.png)
 
 ---
 
