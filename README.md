@@ -49,7 +49,7 @@ This project explores and analyzes Netflix user behavior to uncover **content pr
 
 ---
 
-### 🔹 Binge-Watching Session Distribution
+### 🔹 Top 10 Users by Watch Time
 ![Binge Sessions](outputs/binge_distribution.png)
 
 > Most binge sessions last **110–130 minutes**, indicating typical user attention span.
