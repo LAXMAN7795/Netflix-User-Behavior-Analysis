@@ -55,16 +55,12 @@ This project explores and analyzes Netflix user behavior to uncover **content pr
 ---
 
 ### 🔹 Distribution of Binge-Watching Sessions
-![Viewing Times](outputs/viewing_time_distribution.png)
-
-> Peak activity seen during **evenings and weekends** — prime streaming hours.
+![Viewing Times](https://github.com/LAXMAN7795/Netflix-User-Behavior-Analysis/blob/188dcd6f3691f238a4f0746b1abf4eea8b15970b/output/binge_behavior.png)
 
 ---
 
-### 🔹 User Engagement by Subscription Type
+### 🔹 Average Rating by Genre
 ![Engagement by Plan](outputs/subscription_engagement.png)
-
-> Premium users show higher average viewing durations, supporting plan-based engagement segmentation.
 
 ---
 
